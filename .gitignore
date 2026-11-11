@@ -1,0 +1,4 @@
+build/
+RamTrim.exe
+RamTrim_report_*.txt
+RamTrim_security_*.txt
